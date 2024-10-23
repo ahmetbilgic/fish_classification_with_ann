@@ -1,8 +1,8 @@
-## Balık Sınıflandırma Projesi
-# Proje Özeti
+# Balık Sınıflandırma Projesi
+## Proje Özeti
 Bu proje, çeşitli balık türlerini sınıflandırmak amacıyla Yapay Sinir Ağı (ANN) modeli kullanmayı hedeflemektedir. Balık türlerine ait görüntülerden oluşan bir veri seti kullanılarak, model eğitildi ve performansı değerlendirildi. Bu projede veri yükleme ve ön işleme, model oluşturma ve değerlendirme adımları yer alıyor.
 
-Amaç
+## Amaç
 Projenin amacı, farklı balık türlerini doğru bir şekilde sınıflandırabilecek bir model geliştirmektir. Bu amaçla, ANN (Artificial Neural Network) yapısı kullanılarak sınıflandırma işlemi gerçekleştirilmiştir.
 
 Veri Seti
