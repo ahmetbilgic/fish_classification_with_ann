@@ -15,12 +15,14 @@ Balık türlerine ait çeşitli görüntülerden oluşan bir veri seti kullanıl
 
 Eğitim seti: Veri setinin %80’i modelin eğitimi için kullanıldı.
 Doğrulama seti: %20’lik kısım modelin doğrulama aşamasında kullanıldı.
+
 Temel Adımlar
 
 Veri Yükleme ve Ön İşleme
 
 ImageDataGenerator ile veri seti yüklendi ve görüntüler 1/255 ile yeniden ölçeklendirilerek normalize edildi.
 Veri seti, eğitim ve doğrulama setlerine bölündü.
+
 Model Mimarisi
 
 Proje kapsamında kullanılan model, bir Yapay Sinir Ağı (ANN) yapısına dayanmaktadır. Bu yapı aşağıdaki katmanlardan oluşmaktadır:
